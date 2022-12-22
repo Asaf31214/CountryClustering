@@ -1,3 +1,6 @@
+#THIS IS OLD CODE
+
+
 #this is the file the project is first written on. the /notebooks/main.ipynb file is the
 #cleaner version of same code.
 
